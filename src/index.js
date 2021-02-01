@@ -10,5 +10,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// api server
 // $npx json-server --watch data/db.json --port 8000
